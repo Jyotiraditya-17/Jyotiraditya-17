@@ -13,7 +13,7 @@
 - 🤝 I’m looking for help with **Web-based projects**
 - 💬 Ask me about **WEB DEVELOPMENT**
 - 📫 How to reach me: jyotiradityahota@gmail.com
-- 💡 Fun fact: I **code when I feel bored** 😄
+- 💡 Fun fact: **I code when I feel bored** 😄
 
 Connect with me:
 
@@ -32,7 +32,7 @@ Languages and Tools:
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-express-js-a-minimal-and-flexible-node-js-web-application-framework-logo-color-tal-revivo.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/tailwind_css.png"/>
