@@ -2,7 +2,7 @@
 
 
 <h2>Hey 👋, I'm Jyotiraditya Hota </h2>
-<p> A passionate frontend developer from India </p>
+<p> A passionate Web developer from India </p>
 
  ![Profile Views](https://komarev.com/ghpvc/?username=Jyotiraditya-17&color=blue)
 
