@@ -30,8 +30,7 @@ Languages and Tools:
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img src="![image](https://github.com/user-attachments/assets/bdfcdf26-c942-4277-a2f6-6259ef7d037e)
-"/>
+  <img src="https://img.icons8.com/color/48/000000/react.png"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-express-js-a-minimal-and-flexible-node-js-web-application-framework-logo-color-tal-revivo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
