@@ -7,7 +7,7 @@
  ![Profile Views](https://komarev.com/ghpvc/?username=Jyotiraditya-17&color=blue)
 
 
-- 🧑‍💻 I’m currently doing Internship from NareshiT
+- 🧑‍💻 I’m currently doing Internship from **NareshiT**
 - 🌱 I’m currently learning **REACT**, **Node.js**, **Express.js**, and **MongoDB**
 - 👨‍💼 I’m looking to collaborate on **Web Development & Designing**
 - 🤝 I’m looking for help with **Web-based projects**
